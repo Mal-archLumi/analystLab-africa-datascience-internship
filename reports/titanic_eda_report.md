@@ -4,7 +4,7 @@
 
 The objective of this analysis was to explore the Titanic dataset, identify patterns within the data, clean missing values, perform exploratory data analysis, and determine the most important features influencing passenger survival. The analysis included data cleaning, univariate analysis, bivariate analysis, and correlation analysis using Python, Pandas, Matplotlib, and Seaborn.
 
-2. Dataset Overview
+2. Dataset Overview.
 
 The Titanic dataset contains 891 passenger records and 12 variables describing passenger demographics, ticket information, family relationships, and survival status.
 
